@@ -7,7 +7,7 @@ namespace SignalR_MVC_Practice
         public void sendmessage(string message , string name){
             //Save in Db 
             //BroadCast to all online clients
-            Clients.All.SendAsync("Hello world", message, name);
+            Clients.All.SendAsync("newmessage", message, name);
         }
 
     }

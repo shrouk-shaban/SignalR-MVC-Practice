@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalR MVC Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ee0ecd7eff4ed3b32530dd25029ad606611eb44")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalR MVC Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalR MVC Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,6 +17,10 @@
     <script>
     //Define connection 
         var conn= new SignalR.HubConnectionBuilder().withUrl("/ChatHub").build();
+    //Start connection
+    con.start();
+    //Define callback 
+    con.on("newmessage",f,n);
 
         </script>
 }
