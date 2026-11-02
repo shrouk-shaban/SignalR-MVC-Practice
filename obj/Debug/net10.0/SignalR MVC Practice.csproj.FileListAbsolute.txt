@@ -1,0 +1,99 @@
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\appsettings.Development.json
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\appsettings.json
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\SignalR MVC Practice.staticwebassets.runtime.json
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\SignalR MVC Practice.staticwebassets.endpoints.json
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\SignalR MVC Practice.exe
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\SignalR MVC Practice.deps.json
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\SignalR MVC Practice.runtimeconfig.json
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\SignalR MVC Practice.dll
+G:\Project\SignalR MVC Practice\bin\Debug\net10.0\SignalR MVC Practice.pdb
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\rpswa.dswa.cache.json
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.AssemblyInfoInputs.cache
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.AssemblyInfo.cs
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.csproj.CoreCompileInputs.cache
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.MvcApplicationPartsAssemblyInfo.cache
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.RazorAssemblyInfo.cache
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.RazorAssemblyInfo.cs
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\rjimswa.dswa.cache.json
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\scopedcss\bundle\SignalR MVC Practice.styles.css
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\scopedcss\projectbundle\SignalR MVC Practice.bundle.scp.css
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\qu8r341fwt-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\d3ztqoiwze-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\jt7epg5ma0-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\p1kmmaykky-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\fielb96bv1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\0aijrypbm2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\f8ydn12n87-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\3xnzyx03yl-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\avzrgxv1of-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\5ivotk6i2d-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\bd88k7e4c1-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\hhjisk55fh-{0}-ub07r2b239-ub07r2b239.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\fejuqmhqiq-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\eiqrzz806n-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\a3p5z1mx3m-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\xx5p33zquz-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\eiuj7v1bes-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\crtfm9smj9-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\urhov7o8tk-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\844dlcwd5p-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\y0hmk91v17-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\vftu26632f-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\dbp5dhu0yq-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\swimffk7az-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\hiqw0tyjtx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\yedcj1f518-{0}-06098lyss8-06098lyss8.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\kavx21a9x2-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\uwzugmpjeu-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\ijmdo0v3l7-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\lbycuu24a0-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\3cbrlweuh4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\7v4i45e2s1-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\2p6ii5wdl9-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\k97fvpje28-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\ceexzq3s6i-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\yd4pmmogqq-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\kz9ugw1gcg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\8thiwfgha7-{0}-493y06b0oq-493y06b0oq.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\qq85onq202-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\wla82ahhhy-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\udbsrvgc3m-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\iz6nabbgua-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\qjq5ipqcio-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\cwrmeqid4u-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\vv1vw97tpa-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\gjhqa83lzs-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\2g4zs959zo-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\jtkjt3gd9g-{0}-47otxtyo56-47otxtyo56.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\49hem1t7mj-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\j8wvlpm9pj-{0}-356vix0kms-356vix0kms.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\bylvo2k5ex-{0}-83jwlth58m-83jwlth58m.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\b5qmbgxarq-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\3af254ywts-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\fk4ryseyg6-{0}-ag7o75518u-ag7o75518u.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\l6vv34tq2f-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\kb6pu7q71j-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\r5egcjwywx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\jtcm6xfg5m-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\4qldjlfvw5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\km19fepz78-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\yfrybvti1x-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\zuvzl2xzcr-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\iyzhstk283-{0}-rpic7eli1y-rpic7eli1y.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\compressed\1d4gty0au6-{0}-rpic7eli1y-rpic7eli1y.gz
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\staticwebassets.build.json
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\staticwebassets.build.json.cache
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\staticwebassets.development.json
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\swae.build.ex.cache
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.dll
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\refint\SignalR MVC Practice.dll
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.pdb
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR MVC Practice.genruntimeconfig.cache
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\ref\SignalR MVC Practice.dll
+G:\Project\SignalR MVC Practice\obj\Debug\net10.0\SignalR .599C754A.Up2Date

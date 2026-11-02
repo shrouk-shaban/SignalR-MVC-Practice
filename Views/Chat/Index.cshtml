@@ -1,0 +1,115 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@{
+    ViewData["Title"] = "Simple Chat";
+    Layout = "_Layout";
+}
+
+<div class="chat-container">
+
+    <!-- Sidebar -->
+    <aside class="chat-sidebar">
+        <div class="brand">
+            <div class="brand-icon">C</div>
+            <h2>Connect</h2>
+        </div>
+
+        <div class="profile">
+            <div class="avatar">A</div>
+            <div>
+                <h4>Ahmed</h4>
+                <span class="online-text">● Online</span>
+            </div>
+        </div>
+
+        <div class="sidebar-info">
+            <h3>Messages</h3>
+            <p>Your conversations appear here.</p>
+        </div>
+
+        <div class="sidebar-footer">
+            <span>SignalR Demo</span>
+            <span>ASP.NET Core MVC</span>
+        </div>
+    </aside>
+    <!-- Main Chat -->
+
+    <main class="chat-main">
+
+        <header class="chat-header">
+            <div class="header-user">
+                <div class="avatar">A</div>
+                <div>
+                    <h3>Ahmed</h3>
+                    <span class="online-text">Available for chat</span>
+                </div>
+            </div>
+
+            <div class="connection-status">
+                <span class="status-dot"></span>
+                <span>Connected</span>
+            </div>
+        </header>
+
+        <!-- Messages -->
+        <section class="messages-area" id="messagesList">
+
+            <div class="date-divider">
+                <span>Today</span>
+            </div>
+
+            <div class="message received">
+                <div class="message-avatar">A</div>
+                <div class="message-content">
+                    <div class="message-bubble">
+                        Hey! How are you?
+                    </div>
+                    <span class="message-time">10:30 AM</span>
+                </div>
+            </div>
+
+            <div class="message sent">
+                <div class="message-content">
+                    <div class="message-bubble">
+                        I'm doing great! How about you?
+                    </div>
+                    <span class="message-time">10:31 AM</span>
+                </div>
+            </div>
+
+            <div class="message received">
+                <div class="message-avatar">A</div>
+                <div class="message-content">
+                    <div class="message-bubble">
+                        I'm good too! Let's test our new chat application.
+                    </div>
+                    <span class="message-time">10:32 AM</span>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Message Input -->
+        <footer class="chat-input-area">
+            <form id="messageForm" class="message-form">
+
+                <input type="text"
+                       id="messageInput"
+                       placeholder="Type your message..."
+                       autocomplete="off" />
+
+                <button type="submit" id="sendButton">
+                    <span>Send</span>
+                    <span class="send-icon">➤</span>
+                </button>
+
+            </form>
+        </footer>
+    
+    </main>
+</div>
