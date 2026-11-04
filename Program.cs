@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using SignalR_MVC_Practice.Models;
+
 namespace SignalR_MVC_Practice
 {
     public class Program
@@ -9,6 +12,9 @@ namespace SignalR_MVC_Practice
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddSignalR();
+            builder.Services.AddDbContext<ChatContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
