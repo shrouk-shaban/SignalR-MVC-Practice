@@ -21,15 +21,15 @@ namespace SignalR_MVC_Practice
 
             app.UseHttpsRedirection();
             app.UseRouting();
-            app.MapHub<ChatHub>("/chat");
+            app.MapHub<ChatHub>("/ChatHub");
             app.UseAuthorization();
 
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
+                pattern: "{controller=Chat}/{action=Index1}/{id?}")
                 .WithStaticAssets();
-
+            
             app.Run();
         }
     }

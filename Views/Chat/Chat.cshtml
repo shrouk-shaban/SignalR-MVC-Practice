@@ -6,21 +6,28 @@
 <h1>Chat</h1>
 <input type="text" id="text" />
 <input type="button" value="send" onclick="send()"/> <br/>
-<ul>
-    <li>
-        example
-    </li>
+<ul id="ul">
+        example 
 </ul>
 
 @section Scripts{
     <script src="~/microsoft/signalr/dist/browser/signalr.js"></script>
     <script>
+      name = prompt("Enter your name");
     //Define connection 
-        var conn= new SignalR.HubConnectionBuilder().withUrl("/ChatHub").build();
+     con = new signalR.HubConnectionBuilder()
+    .withUrl("/ChatHub").build();   
     //Start connection
     con.start();
     //Define callback 
-    con.on("newmessage",f,n);
+   con.on("newmessage", function(message, name){
+    $("#ul").append("<li>"+name+":"+message+"</li>");
+});
+
+    //Define function to consume server 
+    function send(){
+     con.invoke("SendMessage",name, $("#text").val());
+    }
 
         </script>
 }
